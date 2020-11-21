@@ -18,10 +18,6 @@ Conhecimentos básicos em:
   
   <br>
   
-Procuro ao máximo ajudar, então se tiver algo que eu possa fazer por você entra em contato comigo ⤵️
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/67590378/98769952-d5586d80-23bf-11eb-8b2d-a5de4e6364a6.jpg" height="30px" width="100px" alt="Thigos#7860">
   
 <img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="20px" width="100%" align="bottom">
 
