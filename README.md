@@ -1,9 +1,8 @@
 <img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="20px" width="100%" align="top">
 
 
-# Konnichiwa! 
 
-Estudando: <strong>Desenvolvimento de Sistemas </strong>
+
 
 
 ### Habilidades:
