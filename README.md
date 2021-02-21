@@ -5,9 +5,8 @@
 
 Estudando: <strong>Desenvolvimento de Sistemas </strong>
 
-<img src="https://user-images.githubusercontent.com/67590378/108612162-a9885300-73c4-11eb-9550-65555f595427.png" height="20px" width="100%" align="top">
 
-Habilidades:
+### Habilidades:
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
