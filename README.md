@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="20px" width="100%" align="top">
+<img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="30px" width="100%" align="top">
 
 
 
@@ -16,7 +16,7 @@
   <br>
   
   
-<img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="20px" width="100%" align="bottom">
+<img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="30px" width="100%" align="bottom">
 
 <!--
 **Thigos/Thigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
