@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/67590378/98765228-66c5e080-23bc-11eb-81f8-f59e80cefc38.png" height="30px" width="100%" align="top">
 
 <p align="center"><img width="100px" src="https://user-images.githubusercontent.com/67590378/108642353-722cab80-7483-11eb-9da8-2dffd87ebd38.gif"></p>
+
 ### Habilidades:
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
