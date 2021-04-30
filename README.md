@@ -8,7 +8,7 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   
-   <img src="https://img.shields.io/badge/Computer%20Vision%20(Opencv)-000000?style=for-the-badge&logo=opencv&logoColor=red">   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Opencv-000000?style=for-the-badge&logo=opencv&logoColor=red">   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   
    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <br>
