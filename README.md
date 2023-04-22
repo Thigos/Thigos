@@ -2,6 +2,10 @@
 
 <p align="center"><img width="100px" src="https://user-images.githubusercontent.com/67590378/108642353-722cab80-7483-11eb-9da8-2dffd87ebd38.gif"></p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67590378/233797110-73b6f850-eafc-42df-a983-555ff07a4ea3.png">
+ </p>
+
 ### Habilidades:
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
