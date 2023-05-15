@@ -18,3 +18,10 @@
   
  ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-642076?style=for-the-badge&logo=c-sharp&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
   
+## Badges
+<a href='https://www.credly.com/badges/e7c51eb2-0334-42b3-bdf2-4b4fa93cb013/linked_in_profile'>
+  <img src='https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png'>
+</a>
+<a href='https://www.credly.com/badges/5fe57af5-9f6f-4976-9a36-e83e0494a508/linked_in_profile'>
+  <img src='https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png'>
+</a>
