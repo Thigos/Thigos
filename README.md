@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67590378/233797110-73b6f850-eafc-42df-a983-555ff07a4ea3.png">
- </p>
+<img width="200px" src="https://user-images.githubusercontent.com/67590378/233797110-73b6f850-eafc-42df-a983-555ff07a4ea3.png">
+
 
 ## SKILLS:
 
@@ -20,8 +19,8 @@
   
 ## Badges
 <a href='https://www.credly.com/badges/e7c51eb2-0334-42b3-bdf2-4b4fa93cb013/linked_in_profile'>
-  <img src='https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png'>
+  <img width="200px" src='https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png'>
 </a>
 <a href='https://www.credly.com/badges/5fe57af5-9f6f-4976-9a36-e83e0494a508/linked_in_profile'>
-  <img src='https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png'>
+  <img width="200px" src='https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png'>
 </a>
