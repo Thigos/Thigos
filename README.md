@@ -24,3 +24,6 @@
 <a href='https://www.credly.com/badges/5fe57af5-9f6f-4976-9a36-e83e0494a508/linked_in_profile'>
   <img width="200px" src='https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png'>
 </a>
+<a href='https://www.credly.com/badges/1475d3bb-87d2-4df7-a75a-43f491b5a121/public_url'>
+  <img width="200px" src='https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png'>
+</a>
